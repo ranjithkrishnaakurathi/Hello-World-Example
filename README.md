@@ -1,8 +1,2 @@
 # Hello-World-Example
-
-public class Main {
-	public static void main(String[] args) {
-		System.out.println("Hello World");
-		
-	}
-}
+[Hello World.txt](https://github.com/ranjithkrishnaakurathi/Hello-World-Example/files/9540769/Hello.World.txt)
